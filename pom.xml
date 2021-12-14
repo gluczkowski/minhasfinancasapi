@@ -12,10 +12,7 @@
 	<artifactId>minhasfinancas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>minhasfinancas</name>
-	<description>Projeto para gerenciamento de finanças pessoais</description>
-	<properties>
-		<java.version>11</java.version>
-	</properties>
+	<description>Projeto para gerenciamento de finanças pessoais</description>	
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
